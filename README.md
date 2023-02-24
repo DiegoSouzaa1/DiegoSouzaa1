@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on casa
+- 🌱 I’m currently learning matematica
+- 👯 I’m looking to collaborate on programas
+- 🤔 I’m looking for help with kinemaster
+- 💬 Ask me about 1945
 - 📫 How to reach me: instagram
-- 😄 Pronouns: ele/delas
+- 😄 Pronouns: elu/delu
 - ⚡ Fun fact: estorei o freio aos 2
 -->
